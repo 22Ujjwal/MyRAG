@@ -29,3 +29,26 @@ RAG combines two main approaches:
     - *Breaking down a big book into smaller chapters or sections so the system can focus on the most relevant parts.*
 
 ---
+
+### ⚡ Reranking & Query Optimization (Refining Search Results)
+- **Hybrid Search**: 
+  - Combines BM25 (keyword search) with vector retrieval.
+    - *Using both keyword matching (like searching for specific words) and semantic matching (understanding the meaning) to get better results.*
+  
+- **Reranking**: 
+  - Uses tools like Cohere Rerank or cross-encoder models.
+    - *After finding potential matches, the system sorts them to put the most relevant ones at the top.*
+
+---
+
+### 💡 Context Injection & Generation (Making the LLM Smarter)
+- **Prompt Engineering**: 
+  - Injects retrieved text into the LLM prompt while managing token limits.
+    - *Giving the LLM the most important pieces of information to work with, like giving a student the key notes for an exam.*
+  
+- **Fine-Tuning (Optional)**: 
+  - Fine-tuning smaller LLMs if retrieval alone isn't sufficient.
+    - *Teaching the LLM to be better at specific tasks, like training a chef to specialize in a certain cuisine.*
+
+---
+
