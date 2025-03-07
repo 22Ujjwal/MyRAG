@@ -2,6 +2,11 @@
 <code>I am lovin' it, fun!</code>
 
 ## Key notes on RAG to Building one. 
+
+Model - Gemini
+### To run
+create a venv
+
 ## Core Concept
 RAG combines two main approaches:
 - **Retrieval-based methods**: Fetching relevant documents using vector search.
