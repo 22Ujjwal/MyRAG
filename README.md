@@ -57,3 +57,19 @@ RAG combines two main approaches:
 
 ---
 
+**Well this all is good info, I have lot more to add here, I feel let's start puting some technologies...**
+
+## You need this
+- Python 3.7+
+- A Pinecone API key
+- A GROQ API key (for LLama 3.1 access) {using the free one}
+- A GitHub personal access token
+
+## Environment Variables
+Create a .env file in the root directory with the following variables:
+
+<code>PINECONE_API_KEY=your_pinecone_api_key
+GROQ_API_KEY=your_groq_api_key
+GITHUB_TOKEN=your_github_token
+</code>
+
