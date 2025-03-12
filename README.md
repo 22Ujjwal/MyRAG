@@ -3,7 +3,7 @@
 
 ## Key notes on RAG to Building one. 
 
-Model - Gemini
+Model - Gemini, Groq {2 RAGs different Models}
 ### To run
 create a venv
 
