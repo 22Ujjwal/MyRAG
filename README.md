@@ -73,3 +73,6 @@ GROQ_API_KEY=your_groq_api_key
 GITHUB_TOKEN=your_github_token
 </code>
 
+
+Working on my RAG, Pinecone needs a shoutout
+
