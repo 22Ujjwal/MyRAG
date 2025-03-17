@@ -74,5 +74,6 @@ GITHUB_TOKEN=your_github_token
 </code>
 
 
-Working on my RAG, Pinecone needs a shoutout
+Fun, weekend! barely worked :))
+
 
