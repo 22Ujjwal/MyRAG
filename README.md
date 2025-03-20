@@ -1,4 +1,4 @@
-# MyRAG
+# RAG Program
 <code>I am lovin' it, fun!</code>
 
 ## Key notes on RAG to Building one. 
